@@ -1,0 +1,4 @@
+响应头案例    知识点： js indexof
+     node没有web容器的概念
+模块        exports         module.export     node.modules
+模板引擎    ejs   jade   art-template
